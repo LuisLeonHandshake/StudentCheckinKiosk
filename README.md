@@ -1,2 +1,2 @@
 # StudentCheckinKiosk
-Rails 6+ API + React 
+Rails 6 API + React 
